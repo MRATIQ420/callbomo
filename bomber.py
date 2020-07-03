@@ -727,7 +727,7 @@ def start(target, counter, delay, ch, cc):
                 else:
                     print('\n\n\tSorry Your Country is Not Supported...')
                     print(
-                        '\t\tPlease Send A Mail To ggspeedx29@gmail.com To Let Us Know...')
+                        '\t\tPlease Send A whatsapp To 03414826359 To Let Us Know...')
                     input('Press Enter To Exit...')
                     exit()
         print(random.choice(colors))
@@ -905,7 +905,7 @@ if nm == 0:
     print("                Gearing Up Bomber, please wait !!               ")
     print("     Please keep your data connection active during bombing !!    ")
     print("==================================================================")
-    print("             Target Number       : +91", pn)
+    print("             Target Number       : +92", pn)
     print("             Number of Threads   : ", nt)
     print("             Delay               : ", dl)
     print("==================================================================")
